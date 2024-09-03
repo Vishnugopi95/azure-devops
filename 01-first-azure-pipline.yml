@@ -9,7 +9,7 @@ trigger:
 pool:
   name: 'Default'
   demands:
-    - agent.name -equals Self-Hosted
+    - agent.name -equals ITOPS009
 
 
 steps:
